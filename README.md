@@ -12,7 +12,7 @@ This is a simple *portfolio website* built using *HTML and basic CSS*. It includ
 
 ## How to view
 
-You can access my portfolio website by visiting []. Feel free to explore the content.
+You can access my portfolio website by visiting [https://sudharshan-prakash.github.io/portfolio-website/]. Feel free to explore the content.
 
 ## Contributing
 
